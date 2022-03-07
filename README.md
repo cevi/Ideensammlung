@@ -1,5 +1,5 @@
 # Ideensammlung
-Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können.
+Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgesetzte Ideen oder Ideen mit eigenem Repo können als `submodule` hinzugefügt werden.
 
 
 - Standardisiertes CMS für Cevi-Abteilungen (https://github.com/cevi/cevi-drupal)
