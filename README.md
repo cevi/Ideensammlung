@@ -11,3 +11,5 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
   - Kategorisieren der Events
   - Anmeldelink zum Event
   - Allenfalls eine simple JSON-Anwendung, die Events müssen dann selber schön dargestellt werden
+
+- Tool für Kursfinänzler, Budget, Spesen, Spesenprozess digitalisieren
