@@ -14,4 +14,4 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
 
 - Tool für Kursfinänzler, Budget, Spesen, Spesenprozess digitalisieren
 
-- Kroki Generator, erstellt aus einem Kartenausschnitt oder einem Weg eine stilisierte Karte (Krstylisiertestylisierteoki)
+- Kroki Generator, erstellt aus einem Kartenausschnitt oder einem Weg eine stilisierte Karte (Kroki)
