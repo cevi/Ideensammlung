@@ -13,3 +13,5 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
   - Allenfalls eine simple JSON-Anwendung, die Events müssen dann selber schön dargestellt werden
 
 - Tool für Kursfinänzler, Budget, Spesen, Spesenprozess digitalisieren
+
+- Kroki Generator, erstellt aus einem Kartenausschnitt oder einem Weg eine stilisierte Karte (Krstylisiertestylisierteoki)
