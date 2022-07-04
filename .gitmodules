@@ -1,3 +1,6 @@
 [submodule "automatic_birthday_card_sender"]
 	path = automatic_birthday_card_sender
 	url = https://github.com/cevi/automatic_birthday_card_sender
+[submodule "qr-code-generator"]
+	path = qr-code-generator
+	url = https://github.com/cevi/qr-code-generator
