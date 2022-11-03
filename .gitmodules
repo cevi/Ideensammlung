@@ -4,3 +4,6 @@
 [submodule "qr-code-generator"]
 	path = qr-code-generator
 	url = https://github.com/cevi/qr-code-generator
+[submodule "notfall-app"]
+	path = notfall-app
+	url = https://github.com/cevi/notfall-app.git
