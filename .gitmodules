@@ -10,3 +10,6 @@
 [submodule "event-viewer"]
 	path = event-viewer
 	url = https://github.com/cevi/event-viewer
+[submodule "event-overview-cevidb"]
+	path = event-overview-cevidb
+	url = https://github.com/cevi/event-overview-cevidb
