@@ -17,3 +17,5 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
 - Kroki Generator, erstellt aus einem Kartenausschnitt oder einem Weg eine stilisierte Karte (Kroki)
 
 - Zewo-Zeiterfassung online (Nextcloud-App?). Erfassen Zeit pro Person auf ein Projekt (Kurs, KV, usw.), Auslesen durch GS.
+
+- Ein Button bei jedem Tool. Mit einem Klick werden alle anderen Tools angezeigt. Ähnlich wie z.B. bei Google.
