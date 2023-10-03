@@ -19,3 +19,6 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
 - Zewo-Zeiterfassung online (Nextcloud-App?). Erfassen Zeit pro Person auf ein Projekt (Kurs, KV, usw.), Auslesen durch GS.
 
 - Ein Button bei jedem Tool. Mit einem Klick werden alle anderen Tools angezeigt. Ähnlich wie z.B. bei Google.
+
+- Ein Tool wo man Lagerplätze eintragen kann. Allenfalls könnte man das gleich mit der Cevi-Map verknüpfen. Oder gemeinsam integrieren. Neben den Abteilungen auch gleich noch spannende Cevi-Orte finden, wie beispielsweise Lagerplätze.
+
