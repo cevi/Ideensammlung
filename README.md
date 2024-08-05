@@ -1,6 +1,7 @@
 # Ideensammlung
 Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgesetzte Ideen oder Ideen mit eigenem Repo können als `submodule` hinzugefügt werden.
 
+- Kurznachrichten Abo für Wetterereignisse: ein Tool auf dem man seinen Lagerort registrieren kann, anschliessend bekommt man SMS / Threema Messages mit relevanten Wetter updates. So kann der Wetterbericht auch in Regionen mit schlechter Netzabdeckung zuverlässig gelesen werden. Ggf. nutzlich: https://github.com/MeteoSwiss/publication-opendata/tree/main#readme
 
 - Standardisiertes CMS für Cevi-Abteilungen (https://github.com/cevi/cevi-drupal)
 - Nextcloud-Plugin für OAuth via Hitobito
