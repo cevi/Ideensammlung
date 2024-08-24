@@ -23,3 +23,4 @@ Eine Sammlung aller (digitalen) Ideen, die mal umgesetzt werden können. Umgeset
 
 - Ein Tool wo man Lagerplätze eintragen kann. Allenfalls könnte man das gleich mit der Cevi-Map verknüpfen. Oder gemeinsam integrieren. Neben den Abteilungen auch gleich noch spannende Cevi-Orte finden, wie beispielsweise Lagerplätze.
 
+- Tool, um Cevi Logo mit Namen zu erstellen
